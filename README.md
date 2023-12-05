@@ -55,4 +55,7 @@
   + 英文通訊協定: https://www.victronenergy.com/upload/documents/VictronConnect_Manual/8778-VictronConnect_manual-pdf-en.pdf
 
 
-+ 電池官網: 
+### 充電電池
++ 電池官網: https://www.grenergy.com.tw/
++ 訂做規格: 鋰鐵電池(GreenRun2)100AH/~10KG ，價格: 15000未稅，保固:半年。
++ 
