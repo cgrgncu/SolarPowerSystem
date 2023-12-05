@@ -4,6 +4,7 @@
 + 充電控制器官網: https://www.victronenergy.com/
 + 台灣代理商官網: https://www.formay.com.tw/
   + 產品頁: https://www.formay.com.tw/outdoor/victron-energy/90-battery/351-82vescsma15
+  + 價格: NTD4600 (2023/12詢價)
 + 產品說明:
   + 透過藍芽可設定，監視，更新和同步SmartSolar充電控制器。
   + 超快速MPPT(最大功率點跟蹤)，當天空有雲，陽光強度不停的變化，超快速MPPT比PWM可增加30%能源,比較慢的MPPT也可增加10%。
