@@ -45,6 +45,8 @@
   + 標準
     + 安全：EN/IEC 62109-1, UL 1741, CSA C22.2
     + IEC 62109-1安全證書: https://www.victronenergy.com/upload/documents/Certificate-Safety-EN-IEC-62109-1-BlueSolar-&-SmartSolar-MPPT-75-10-&-75-15.pdf
+    + Automotive ECE-R10-5安全證書: https://www.victronenergy.com/upload/documents/Certificate-Automotive-ECE-R10-5-BlueSolar-100-15,-100-20-&-SmartSolar-MPPT-75-10,-75-15,-100-15,-100-20.pdf
+    + 已取得NCC(國家通訊傳播委員會)認證
   + 中文說明書: https://www.formay.com.tw/outdoor/manual/victron/smartsolar_charge_controller_75_manual.pdf
   + 英文規格書: https://www.victronenergy.com/upload/documents/Datasheet-SmartSolar-charge-controller-MPPT-75-10,-75-15,-100-15,-100-20_48V-EN.pdf
   + 英文系統介紹: https://www.victronenergy.com/upload/documents/Energy_Storage_System/6292-ESS_design_and_installation_manual-pdf-en.pdf
