@@ -3,7 +3,7 @@
 ### 太陽能充電控制器
 + 充電控制器官網: https://www.victronenergy.com/
 + 台灣代理商官網: https://www.formay.com.tw/
-  + 產品頁: https://www.formay.com.tw/outdoor/victron-energy/90-battery/351-82vescsma15
+  + 產品頁(SmartSolar MPPT 75/15): https://www.formay.com.tw/outdoor/victron-energy/90-battery/351-82vescsma15
   + 價格: NTD4600 (2023/12詢價)
 + 產品說明:
   + 透過藍芽可設定，監視，更新和同步SmartSolar充電控制器。
