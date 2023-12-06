@@ -56,6 +56,7 @@
 
 ### 太陽能充電控制器自製擴充
 + 開發版: NODEMCU-32 V1.3 CH340
++ 開發環境: Arduino IDE 2.2.1
 
 ### 充電電池
 + 電池官網: https://www.grenergy.com.tw/
