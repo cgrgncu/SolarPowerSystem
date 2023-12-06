@@ -55,7 +55,7 @@
   + 英文通訊協定: https://www.victronenergy.com/upload/documents/VictronConnect_Manual/8778-VictronConnect_manual-pdf-en.pdf
 
 ### 太陽能充電控制器自製擴充
-+ 開發版: NODEMCU-32 V1.3 
++ 開發版: NODEMCU-32 V1.3 CH340
 
 ### 充電電池
 + 電池官網: https://www.grenergy.com.tw/
