@@ -54,6 +54,8 @@
   + 英文使用說明書: https://www.victronenergy.com/upload/documents/Manual_SmartSolar_MPPT_75-10_up_to_100-20/29694-MPPT_solar_charger_manual-pdf-en.pdf
   + 英文通訊協定: https://www.victronenergy.com/upload/documents/VictronConnect_Manual/8778-VictronConnect_manual-pdf-en.pdf
 
+### 太陽能充電控制器自製擴充
++ 開發版: NODEMCU-32 V1.3 
 
 ### 充電電池
 + 電池官網: https://www.grenergy.com.tw/
