@@ -54,6 +54,16 @@
   + 英文使用說明書: https://www.victronenergy.com/upload/documents/Manual_SmartSolar_MPPT_75-10_up_to_100-20/29694-MPPT_solar_charger_manual-pdf-en.pdf
   + 英文通訊協定: https://www.victronenergy.com/upload/documents/VictronConnect_Manual/8778-VictronConnect_manual-pdf-en.pdf
 
++ 目前設定(2023-12-18更新):
+  + 以下使用中文語系進行設定。
+  + 注意: 沒有儲存參數的按鈕，從APP修改參數後立刻變更軟體參數內容，硬體延遲一陣子之後才會生效。
+  + 設置>電池:
+    + 電池類型=12V
+    + 電池預設=用戶定義 (後續詳細參數變更後就會自動改為用戶定義)
+    + 均充電壓=13.80V (鋰鐵電池官方建議最大不可超過14V)
+    + 浮充電壓=13.60V 
+
+
 ### 太陽能充電控制器自製擴充
 + 開發版: NODEMCU-32 V1.3 CH340
 + 開發環境: Arduino IDE 2.2.1
