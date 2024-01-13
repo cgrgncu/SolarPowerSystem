@@ -52,8 +52,8 @@
   + 英文規格書: https://www.victronenergy.com/upload/documents/Datasheet-SmartSolar-charge-controller-MPPT-75-10,-75-15,-100-15,-100-20_48V-EN.pdf
   + 英文系統介紹: https://www.victronenergy.com/upload/documents/Energy_Storage_System/6292-ESS_design_and_installation_manual-pdf-en.pdf
   + 英文使用說明書: https://www.victronenergy.com/upload/documents/Manual_SmartSolar_MPPT_75-10_up_to_100-20/29694-MPPT_solar_charger_manual-pdf-en.pdf
-  + 英文通訊協定: https://www.victronenergy.com/upload/documents/VictronConnect_Manual/8778-VictronConnect_manual-pdf-en.pdf
-  + https://www.victronenergy.com/upload/documents/VE.Direct-Protocol-3.33.pdf
+  + 英文通訊說明書: https://www.victronenergy.com/upload/documents/VictronConnect_Manual/8778-VictronConnect_manual-pdf-en.pdf
+  + 英文通訊協定: https://www.victronenergy.com/upload/documents/VE.Direct-Protocol-3.33.pdf
 
 + 目前設定(2023-12-18更新):
   + 以下使用中文語系進行設定。
