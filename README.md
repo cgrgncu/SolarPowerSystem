@@ -87,7 +87,7 @@
 + 台灣地區代理商: 天傑科技有限公司(https://www.70mai.com.tw/)
 + 官方網站: https://powerstation.70mai.com/
 + 官方網站繁體中文: https://zh-tw.powerstation.70mai.com/
-+ 母公司: 上海七十迈数字科技有限公司(https://www.70mai.com.cn/)，英文品牌名稱:70mai，為小米生態鏈。
++ 母公司: 上海七十迈数字科技有限公司( https://www.70mai.com.cn/ )，英文品牌名稱:70mai，為小米生態鏈。
 + 產品型號: ME11MA1
   + 價格: 原價NTD19999，特價NTD10500，2023-12-18查價。
   + 規格:
